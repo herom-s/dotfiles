@@ -1,0 +1,4 @@
+dev-lang/php unicode ssl session mysql mysqli ipv6 fpm cli cgi curl xmlreader xmlwriter zip zlib simplexml pcntl
+# required by dev-lang/php-8.0.16-r1::gentoo
+# required by php (argument)
+>=app-eselect/eselect-php-0.9.8 fpm

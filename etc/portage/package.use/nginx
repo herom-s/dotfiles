@@ -1,0 +1,1 @@
+www-servers/nginx ssl http http2 ipv6 NGINX_MODULES_HTTP: fastcgi gzip gunzip

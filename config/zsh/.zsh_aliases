@@ -1,0 +1,4 @@
+#alias
+alias ls="ls -lF --color=auto"
+alias la="ls -lhAF --color=auto"
+alias ffpriv="firefox -noremote -P ffprivate"
